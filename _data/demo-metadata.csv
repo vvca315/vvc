@@ -1,10 +1,10 @@
-objectid,title
-demo_001,Dominic J. Alessi
-demo_002,Mildred Y. Alessi
-demo_003,Adeline Preston Allen
-demo_004,Aden Sidney Allen
-demo_005,Alfred Allen
-demo_006,Alice L Wheeler Allen
-demo_007,Alice R Allen
-demo_008,Alva B. Allen
-demo_009,Ariel Allen Jr.
+objectid,title,format
+demo_001,Dominic J. Alessi,record
+demo_002,Mildred Y. Alessi,record
+demo_003,Adeline Preston Allen,record
+demo_004,Aden Sidney Allen,record
+demo_005,Alfred Allen,record
+demo_006,Alice L Wheeler Allen,record
+demo_007,Alice R Allen,record
+demo_008,Alva B. Allen,record
+demo_009,Ariel Allen Jr.,record
