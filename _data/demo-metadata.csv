@@ -1,10 +1,10 @@
-objectid,title,format,type
-demo_001,Dominic J. Alessi,image/text;StillImage
-demo_002,Mildred Y. Alessi,image/jpeg
-demo_003,Adeline Preston Allen,image/jpeg
-demo_004,Aden Sidney Allen,image/jpeg
-demo_005,Alfred Allen,image/jpeg
-demo_006,Alice L Wheeler Allen,image/png,Image;StillImage
-demo_007,Alice R Allen,image/png
+objectid,title,display_template
+demo_001,Dominic J. Alessi,record
+demo_002,Mildred Y. Alessi,record
+demo_003,Adeline Preston Allen,record
+demo_004,Aden Sidney Allen,record
+demo_005,Alfred Allen,record
+demo_006,Alice L Wheeler Allen,record
+demo_007,Alice R Allen,record
 demo_008,Alva B. Allen,record
 demo_009,Ariel Allen Jr.,record
