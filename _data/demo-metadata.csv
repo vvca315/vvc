@@ -1,10 +1,10 @@
 objectid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
-demo_001,Dominic J. Alessi,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_002,Mildred Y. Alessi,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_003,Adeline Preston Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_004,Aden Sidney Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_005,Alfred Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_006,Alice L Wheeler Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_007,Alice R Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_008,Alva B. Allen,,,,,,,,,image/png,,,,record,,,,,,hs.png
-demo_009,Ariel Allen Jr.,,,,,,,,,image/png,,,,record,,,,,,hs.png
+demo_001,Dominic J. Alessi,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_002,Mildred Y. Alessi,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_003,Adeline Preston Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_004,Aden Sidney Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_005,Alfred Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_006,Alice L Wheeler Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_007,Alice R Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_008,Alva B. Allen,,,,,,,,,,,,,record,,,,,,headstone.svg
+demo_009,Ariel Allen Jr.,,,,,,,,,,,,,record,,,,,,headstone.svg
