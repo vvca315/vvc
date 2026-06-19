@@ -1,5 +1,5 @@
 objectid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
-demo_001,Dominic J. Alessi,,,,,,,,,record,,,,,,,,,,
+demo_001,Dominic J. Alessi,creator,date,description,subject,location,source,identifier,type,record,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
 demo_002,Mildred Y. Alessi,,,,,,,,,record,,,,,,,,,,
 demo_003,Adeline Preston Allen,,,,,,,,,record,,,,,,,,,,
 demo_004,Aden Sidney Allen,,,,,,,,,record,,,,,,,,,,
