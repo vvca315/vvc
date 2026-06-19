@@ -1,10 +1,10 @@
 objectid,title,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
-demo_001,Dominic J. Alessi,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_002,Mildred Y. Alessi,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_003,Adeline Preston Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_004,Aden Sidney Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_005,Alfred Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_006,Alice L Wheeler Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_007,Alice R Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_008,Alva B. Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
-demo_009,Ariel Allen Jr.,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,5230022.jpg
+demo_001,Dominic J. Alessi,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_002,Mildred Y. Alessi,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_003,Adeline Preston Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_004,Aden Sidney Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_005,Alfred Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_006,Alice L Wheeler Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_007,Alice R Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_008,Alva B. Allen,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
+demo_009,Ariel Allen Jr.,,,,,,,,,image/jpeg,,,,image/jpeg,,,,,,headstone.svg
