@@ -1,7 +1,7 @@
-objectid,title,birth,death,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
-117945322,Dominic J. Alessi,1 Sep 1958,4 Oct 1814,creator,date,description,subject,Sec A Lot 129,source,identifier,type,record,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,longitude,latitude,filename
-117945391,Mildred Y. Alessi,,,,,,,,,,,record,,,,,,,,,,1.jpg
-98735824,Adeline Preston Allen,,,,,,,Sec A Lot 189,,,,record,,,,,,,,,,
+objectid,title,birth,death,creator,date,description,subject,location,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,latitude,longitude,filename
+117945322,Dominic J. Alessi,1-Sep-58,4 Oct 1814,creator,date,description,subject,Sec A Lot 129,source,identifier,type,record,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,42.6447517,-75.7816308,filename
+117945391,Mildred Y. Alessi,,,,,,,,,,,record,,,,,,,,42.68,-75.7816347,1.jpg
+98735824,Adeline Preston Allen,,,,,,,Sec A Lot 189,,,,record,,,,,,,,42.642,-75.7816347,
 117939605,Aden Sidney Allen,,,,,,,Sec A Lot 16,,,,record,,,,,,,,,,
 117243281,Alfred Allen,,,,,,,Sec. C Lot 398 North grv. 1,,,,record,,,,,,,,,,
 105082343,Alice L Wheeler Allen,,,,,,,,,,,record,,,,,,,,,,

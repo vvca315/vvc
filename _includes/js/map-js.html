@@ -33,6 +33,12 @@
     var mapCenter = locationSearchParams ? locationSearchParams.split(',') : [{{ site.data.theme.latitude | default: 46.727485 }}, {{ site.data.theme.longitude | default: -117.014185 }}];
     var mapZoom = locationSearchParams ? 16 : {{ site.data.theme.zoom-level | default: 5 }};
     var markerFilter = url.searchParams.get('marker') ? url.searchParams.get('marker') : "";
+    /* only show the selected item, or no items if the map is accessed directly */
+    if (markerFilter != "") {
+        geodata.features = geodata.features.filter(feature => feature.properties.id === markerFilter);
+    } else {
+        geodata.features = [];
+    }
 
     /* init map */
     var map = L.map('map');
